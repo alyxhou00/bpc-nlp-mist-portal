@@ -3,7 +3,7 @@
 Portal linking each sub-repos for the MIST/WMT25 in Bachelor's Practical Course: Projects in Natural Language Processing offered in TUM SS2026.
 Click on corresponding links to view the source code.
 
-### 1. [Subtask Linguistic Reasoning](https://github.com/alyxhou00/BPC-NLP-MIST)
+### 1. [Subtask Linguistic Reasoning](https://github.com/alyxhou00/BPC-NLP-MIST-public)
 In this subtask, we benchmark the linguistic reasoning performance of LLMs, following the methods used in the original paper. More specifically, We extend [Linguini](https://github.com/facebookresearch/linguini) to include multilingual instructions in English, German, French, Simplified Chinese, and Taiwanese Hokkien, while retaining reasoning tasks across 80 low-resource languages. 
 Given linguistic problems as prompts, both closed-weight and open-weight models provide answers and compare the correctness using exact-match accuracy and chrF scores.
 
