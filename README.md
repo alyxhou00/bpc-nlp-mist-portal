@@ -10,6 +10,6 @@ Given linguistic problems as prompts, both closed-weight and open-weight models 
 ### 2. A Closer Look at a Low-Resource Language: Na'vi
 Using data from 300 grammatically correct sentences & translations from the "An Annotated Na'vi Dictionary", we give Qwen and Llama 100 sentences to learn from. The instruction languages are tested in English, German, and French.
 
-### 3. Subtask LLM-as-a-Judge for Multilingual Cross-Document Summarization
+### 3. [Subtask LLM-as-a-Judge for Multilingual Cross-Document Summarization](https://github.com/xsboy-12345/MIST_xsml)
 We train local open-source LLMs as multilingual summary judges. Given reviews, a generated summary, and one evaluation dimension, the model predicts a human-like quality score from 1 to 7.
 
